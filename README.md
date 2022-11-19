@@ -10,6 +10,7 @@ This repository was created as part of the training
 - Ben
 - Adriana
 - Sarah
+- :sleeping:
 - Petestein
 * Peter
 * Pete
